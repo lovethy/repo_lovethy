@@ -17,8 +17,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: 'bm_yeonsungregular';
-  /* font-family: "Open Sans", sans-serif; */
+  font-family: 'bm_yeonsungregular',"Open Sans", sans-serif;;
   color: #fff;
   position: relative;
   background: transparent;
