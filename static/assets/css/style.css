@@ -5,11 +5,20 @@
 * License: https://bootstrapmade.com/license/
 */
 
+@font-face {
+  font-family: 'bm_yeonsungregular';
+  src: url('bmyeonsung_ttf-webfont.woff2') format('woff2'),
+       url('bmyeonsung_ttf-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'bm_yeonsungregular';
+  /* font-family: "Open Sans", sans-serif; */
   color: #fff;
   position: relative;
   background: transparent;
